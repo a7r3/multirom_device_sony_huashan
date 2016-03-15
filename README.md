@@ -19,11 +19,15 @@ Camera  | 8MPx, LED Flash
 ![Sony Xperia SP](http://wiki.cyanogenmod.org/images/3/3e/Huashan.png "Sony Xperia SP in white")
 
 
-#The Recovery Sources for Building The MultiROM for the Xperia SP (Huashan)
+#Recovery Sources for Building MultiROM TWRP Recovery for the Xperia SP (Huashan) 
+
+For TWRP 3.0.0-0
 
 Clone android-6.0 branch for TWRP Recovery Sources 
 
-#This is a "WiP" Project
-
 This TWRP Repo is derived from AdrianDC's TWRP Device Tree which can be found here 
 -> https://github.com/AdrianDC/twrp_device_sony_huashan
+
+#What is MultiROM?
+
+https://github.com/Tasssadar/multirom/wiki/Introduction
