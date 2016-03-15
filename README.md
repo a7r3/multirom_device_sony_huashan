@@ -24,3 +24,6 @@ Camera  | 8MPx, LED Flash
 Clone android-6.0 branch for TWRP Recovery Sources 
 
 #This is a "WiP" Project
+
+This TWRP Repo is derived from AdrianDC's TWRP Device Tree which can be found here 
+-> https://github.com/AdrianDC/twrp_device_sony_huashan
