@@ -22,3 +22,5 @@ Camera  | 8MPx, LED Flash
 #The Recovery Sources for Building The MultiROM for the Xperia SP (Huashan)
 
 Clone android-6.0 branch for TWRP Recovery Sources 
+
+#This is a "WiP" Project
